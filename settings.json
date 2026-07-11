@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SchoolSMP-a6xo.aternos.me",
+    "ip": "marmot.aternos.host:11593",
     "port": 11593,
     "version": "1.21.1"
   },
