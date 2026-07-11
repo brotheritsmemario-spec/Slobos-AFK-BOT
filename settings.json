@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "marmot.aternos.host:11593",
+    "ip": "SchoolSMP-a6xo.aternos.me",
     "port": 11593,
     "version": "1.21.1"
   },
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
