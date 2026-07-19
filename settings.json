@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "iamthenarenforever.aternos.me",
-    "port": 25275,
+    "ip": "bloodsweptSMP.aternos.me",
+    "port": 35125,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Horizonsnear (narens channel)",
         "I like to play Minecraft!"
       ]
     },
